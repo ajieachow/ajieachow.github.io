@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>立杰 IP 小站</title>
+  <icon>https://ajieachow.github.io/icon.png</icon>
+  <subtitle>用来记录产品、生活、学习</subtitle>
+  <link href="https://ajieachow.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ajieachow.github.io/"/>
+  <updated>2023-08-05T23:32:12.872Z</updated>
+  <id>https://ajieachow.github.io/</id>
+  
+  <author>
+    <name>ajiea.chow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>产品 - 去稿定设计水印脚本</title>
+    <link href="https://ajieachow.github.io/2023/08/06/remove-watermark/"/>
+    <id>https://ajieachow.github.io/2023/08/06/remove-watermark/</id>
+    <published>2023-08-05T23:12:43.000Z</published>
+    <updated>2023-08-05T23:32:12.872Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;📑-产品介绍&quot;&gt;&lt;a href=&quot;#📑-产品介绍&quot; class=&quot;headerlink&quot; title=&quot;📑 产品介绍&quot;&gt;&lt;/a&gt;📑 产品介绍&lt;/h2&gt;&lt;p&gt;帮你省钱和提升专业度。&lt;br&gt;稿定设计是不是充个会员，没用一次两就过期；看着明晃晃的水印，分享真没人看。&lt;br&gt;我提供更优解：去水印工具。易上手，简单好操作，一键除水印神器。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="去水印" scheme="https://ajieachow.github.io/tags/%E5%8E%BB%E6%B0%B4%E5%8D%B0/"/>
+    
+    <category term="脚本" scheme="https://ajieachow.github.io/tags/%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐剧 - Hamilton</title>
+    <link href="https://ajieachow.github.io/2023/08/05/hamilton/"/>
+    <id>https://ajieachow.github.io/2023/08/05/hamilton/</id>
+    <published>2023-08-05T15:55:34.000Z</published>
+    <updated>2023-08-05T16:01:49.344Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;荐语&quot;&gt;&lt;a href=&quot;#荐语&quot; class=&quot;headerlink&quot; title=&quot;荐语&quot;&gt;&lt;/a&gt;荐语&lt;/h2&gt;&lt;p&gt;从音乐剧的视角查看 Hamilton 的一生，就是那个主笔联邦党人文集的汉密尔顿；如果你对感兴趣 hip pop 和人物传记感兴趣值得一听。&lt;br&gt;建议食用方式：一定要看一遍音乐剧，然后听歌去感受，画面会自动浮现脑海中。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="音乐剧" scheme="https://ajieachow.github.io/categories/%E9%9F%B3%E4%B9%90%E5%89%A7/"/>
+    
+    
+    <category term="音乐剧" scheme="https://ajieachow.github.io/tags/%E9%9F%B3%E4%B9%90%E5%89%A7/"/>
+    
+    <category term="人物传记" scheme="https://ajieachow.github.io/tags/%E4%BA%BA%E7%89%A9%E4%BC%A0%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vol.1 Well, Damn Thought! - Prologue</title>
+    <link href="https://ajieachow.github.io/2023/08/05/%E4%B8%93%E6%A0%8F%E5%AF%BC%E8%88%AA/"/>
+    <id>https://ajieachow.github.io/2023/08/05/%E4%B8%93%E6%A0%8F%E5%AF%BC%E8%88%AA/</id>
+    <published>2023-08-05T11:08:49.000Z</published>
+    <updated>2023-08-05T14:21:41.424Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;专栏初衷&quot;&gt;&lt;a href=&quot;#专栏初衷&quot; class=&quot;headerlink&quot; title=&quot;专栏初衷&quot;&gt;&lt;/a&gt;专栏初衷&lt;/h2&gt;&lt;p&gt;就只为更好的沟通交流。对应思考项目是否要分享的原因，这是最好的接受反馈的机会。第一次开源的收益是大家帮我纠正错别字。&lt;br&gt;或许这里会有很多疑问，都说了为了沟通交流，为什么不在现实生活中直接找人沟通呢？&lt;br&gt;原因很简单，大家都挺忙的，相对应占用彼此的连续的时间；笔者考虑的更多是将彼此连续的时间打散成点，那这个过程中自然需要有载体方便进行异步交流，那文档就是响应的呈现方式。&lt;br&gt;当然也是有点私心的：思想是个体的固有资产，思想在短时间纬度是恒定的，用文档梳理个体自身，也方便和他人进行交流。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="专栏" scheme="https://ajieachow.github.io/tags/%E4%B8%93%E6%A0%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>年中总结</title>
+    <link href="https://ajieachow.github.io/2023/08/04/%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/"/>
+    <id>https://ajieachow.github.io/2023/08/04/%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/</id>
+    <published>2023-08-04T06:24:31.000Z</published>
+    <updated>2023-08-05T15:00:59.189Z</updated>
+    
+    
+    <summary type="html">需要密码才能访问</summary>
+    
+    
+    
+    
+    <category term="总结" scheme="https://ajieachow.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+</feed>
