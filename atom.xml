@@ -6,7 +6,7 @@
   <link href="https://ajieachow.github.io/atom.xml" rel="self"/>
   
   <link href="https://ajieachow.github.io/"/>
-  <updated>2023-08-05T23:32:12.872Z</updated>
+  <updated>2023-08-06T11:20:23.906Z</updated>
   <id>https://ajieachow.github.io/</id>
   
   <author>
@@ -17,16 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>产品 - 编程入门训练营</title>
+    <link href="https://ajieachow.github.io/2023/08/06/coding-club/"/>
+    <id>https://ajieachow.github.io/2023/08/06/coding-club/</id>
+    <published>2023-08-06T10:51:56.000Z</published>
+    <updated>2023-08-06T11:20:23.906Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;花费一周时间通过 PBL制 + AI 搭建学习，帮助编程小白快速掌握基本的网站编程能力。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="产品" scheme="https://ajieachow.github.io/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+    <category term="编程" scheme="https://ajieachow.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="入门" scheme="https://ajieachow.github.io/tags/%E5%85%A5%E9%97%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>产品 - 去稿定设计水印脚本</title>
     <link href="https://ajieachow.github.io/2023/08/06/remove-watermark/"/>
     <id>https://ajieachow.github.io/2023/08/06/remove-watermark/</id>
     <published>2023-08-05T23:12:43.000Z</published>
-    <updated>2023-08-05T23:32:12.872Z</updated>
+    <updated>2023-08-06T11:20:25.749Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;📑-产品介绍&quot;&gt;&lt;a href=&quot;#📑-产品介绍&quot; class=&quot;headerlink&quot; title=&quot;📑 产品介绍&quot;&gt;&lt;/a&gt;📑 产品介绍&lt;/h2&gt;&lt;p&gt;帮你省钱和提升专业度。&lt;br&gt;稿定设计是不是充个会员，没用一次两就过期；看着明晃晃的水印，分享真没人看。&lt;br&gt;我提供更优解：去水印工具。易上手，简单好操作，一键除水印神器。&lt;/p&gt;</summary>
     
     
+    
+    <category term="产品" scheme="https://ajieachow.github.io/categories/%E4%BA%A7%E5%93%81/"/>
     
     
     <category term="去水印" scheme="https://ajieachow.github.io/tags/%E5%8E%BB%E6%B0%B4%E5%8D%B0/"/>

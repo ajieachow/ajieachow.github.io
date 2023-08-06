@@ -76,9 +76,65 @@
 
 
 ]]></content>
+      <categories>
+        <category>产品</category>
+      </categories>
       <tags>
         <tag>去水印</tag>
         <tag>脚本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>产品 - 编程入门训练营</title>
+    <url>/2023/08/06/coding-club/</url>
+    <content><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>花费一周时间通过 PBL制 + AI 搭建学习，帮助编程小白快速掌握基本的网站编程能力。</p>
+<ol>
+<li><strong>学习形式</strong>：每天花费 30min 学习和完成课程作业，提交到 @作业区块，立杰会进行评论和打分</li>
+<li><strong>教学形式</strong>：文字教程 +  录屏 + 直播<ul>
+<li>录屏导读当前任务如何完成</li>
+<li>根据作业内容不定期进行直播讲解</li>
+</ul>
+</li>
+<li><strong>学习周期</strong>：一周</li>
+</ol>
+<img src='/images/coding-tutorial.png' height=400 />
+<img src='/images/coding-homework.png' height=200 />
+
+<h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote>
+<p>当前网站，可访问 <a href="https://sourl.cn/GYstP6">https://sourl.cn/GYstP6</a></p>
+</blockquote>
+<p>个人 IP 站点功能：</p>
+<ul>
+<li>发表文章（密码访问、引流公众号访问）</li>
+<li>评论</li>
+<li>b站视频嵌入</li>
+<li>访问用户数统计和用户数据分析</li>
+<li>打通豆瓣数据库</li>
+<li>站内搜索</li>
+<li>赞赏</li>
+</ul>
+<p>更多功能等你来共建~</p>
+<h2 id="适用人群"><a href="#适用人群" class="headerlink" title="适用人群"></a>适用人群</h2><ul>
+<li>编程好奇者</li>
+<li>有产品且投放「真」互联网的个人IP主理人</li>
+<li>文字爱好分享者（分享文章&#x2F;随笔&#x2F;个人说明书&#x2F;教程）</li>
+</ul>
+<h2 id="如何加入"><a href="#如何加入" class="headerlink" title="如何加入"></a>如何加入</h2><ol>
+<li>结合自身时间和特点，选择方案</li>
+<li>通过赞赏方式进行付费</li>
+<li>添加立杰微信，截图发送赞赏定金</li>
+</ol>
+<ul>
+<li>方案一：单售<code>文字教程</code> 💰（￥99），适合实践能力强的同学</li>
+<li>方案二：完整训练营服务<code>文字教程</code> + <code>教学录屏</code> + <code>直播</code> + <code>社群搭建</code> 💰（￥299），一期只招 <strong>15 人</strong></li>
+</ul>
+]]></content>
+      <categories>
+        <category>产品</category>
+      </categories>
+      <tags>
+        <tag>编程</tag>
+        <tag>入门</tag>
       </tags>
   </entry>
 </search>
